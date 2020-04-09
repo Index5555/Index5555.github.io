@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Index5555.github.io</id>
+    <id>https://Index5555.xyz</id>
     <title>Index5555&apos;s Blog</title>
-    <updated>2020-04-09T03:33:14.428Z</updated>
+    <updated>2020-04-09T03:59:45.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Index5555.github.io"/>
-    <link rel="self" href="https://Index5555.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Index5555.xyz"/>
+    <link rel="self" href="https://Index5555.xyz/atom.xml"/>
     <subtitle>一个普通人的普通博客</subtitle>
-    <logo>https://Index5555.github.io/images/avatar.png</logo>
-    <icon>https://Index5555.github.io/favicon.ico</icon>
+    <logo>https://Index5555.xyz/images/avatar.png</logo>
+    <icon>https://Index5555.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Index5555&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Markdown 测试]]></title>
-        <id>https://Index5555.github.io/post/markdown-ce-shi/</id>
-        <link href="https://Index5555.github.io/post/markdown-ce-shi/">
+        <id>https://Index5555.xyz/post/markdown-ce-shi/</id>
+        <link href="https://Index5555.xyz/post/markdown-ce-shi/">
         </link>
         <updated>2020-04-08T14:44:09.000Z</updated>
         <summary type="html"><![CDATA[<p>图片测试</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Index5555.github.io/post/hello-gridea/</id>
-        <link href="https://Index5555.github.io/post/hello-gridea/">
+        <id>https://Index5555.xyz/post/hello-gridea/</id>
+        <link href="https://Index5555.xyz/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
