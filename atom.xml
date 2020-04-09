@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Index5555.github.io</id>
     <title>Index5555&apos;s Blog</title>
-    <updated>2020-04-09T06:20:19.130Z</updated>
+    <updated>2020-04-09T09:19:24.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Index5555.github.io"/>
     <link rel="self" href="https://Index5555.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://Index5555.github.io/images/avatar.png</logo>
     <icon>https://Index5555.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Index5555&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年4月8日星期三晴]]></title>
+        <id>https://Index5555.github.io/post/2020-nian-4-yue-8-ri-xing-qi-san-qing/</id>
+        <link href="https://Index5555.github.io/post/2020-nian-4-yue-8-ri-xing-qi-san-qing/">
+        </link>
+        <updated>2020-04-09T09:16:01.000Z</updated>
+        <content type="html"><![CDATA[<p>七点又被吵醒了，我是不是什么时候把闹钟声音调最大了？<br>
+不断地被吵醒，7点半，还是起来了，因为英语还没预习好。提前翻译一下。<br>
+还好，上课只点人读了文章段落，以及分享从我的全世界路过电影中的喜欢的人物，不过我说我没看应该可以蒙混过关吧，毕竟我的确没观看。<br>
+网站现在除了搭好了外，内容是完全没有，hexo不会用啊，或者说光是想都觉得很难用，用dos命令窗口贼难受了，就是感觉对计算机没办法一目了解其状态，全靠命令窗口上的参数，实在是难受。<br>
+快下课的时候，突然一个陌生电话打了过来，原来是花生壳客服，问我是不是还在用花生壳，用的咋样，有没有啥问题，正好之前不明白壳域名为啥没有解析的选项，问了下，原来这个壳域名是只能用作花生壳的内网穿透解析服务，也在意料之中，这样也好，至少证明这个xyz域名没白买。<br>
+话说，我好话痨啊！</p>
+<p>毛概有作业，但从来没点到过我，怎么说也有两个班九十多个人。<br>
+清理桌面，桌面一直都乱，每次都只收拾了一点，把下载目录里稍微清理了一下，下的东西太多了，都快找不到了，目前主要就是chrome，pandownload，idm这三个下载东西了。<br>
+还是想把网页搞好，终于酷安看到个简单的软件，可视化写博客，gridea，一看截图就知道很好用，立马下载，按配置安装，果然成功了。<br>
+成功，激动，终于算是有个像模像样的博客了，至于内容就我自己慢慢搞了。<br>
+上厕所，突然听到有人打开小铁门的声音，我猜就是高鹏，果然，qq上有说下午来。<br>
+又是无聊的闲聊，好糜烂的生活啊，谁让这假这么久呢。<br>
+gridea换主题，原来换主题就可以起到很好的美化作用，这里的美化包括布局之类的东西，并不是类似手机壁纸之类的东西。<br>
+可惜主题好少啊，还老是出些小bug，github访问还慢，是的这是搭在github上的，不过静态文件也找到了，可以传到oss上去。<br>
+下午照例是要打王者啦，庄周蒙犽的组合，很奇怪很少有人抢射手，预选了基本就会给，果然王者玩家都挺佛系的嘛。<br>
+打着打着，有一个号码打来，一看，阿里云客服，我瞬间明白了，大概有是像花生壳那样问问情况吧，不过问我是不是要做测试什么的，我不懂啊，难道是在某些大佬在发布到官网前做测试买个域名啥的？有可能。<br>
+gihub好慢啊，不买服务器就是这种体验吗，可是我没钱啊！<br>
+黑猫昨天练了个小号，从头打起，今天继续练小号，没啥兴趣，只是，点歌真的抢不到啊，昨天试着抢了抢，一首歌快结束就一堆人点，以前咋没发现点歌竞争这么激烈呢，而且也比知道点歌成功的判定标准，歌曲列表就5首歌，直播还有延迟，太难了。<br>
+这几天10点一直在播生化危机 抵抗，没啥兴趣。<br>
+晚安，明天语文又要被点，要命。<br>
+<img src="https://Index5555.github.io/post-images/1586423944535.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://Index5555.github.io/post/test/</id>
@@ -29,38 +58,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>图片测试</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Index5555.github.io/post/hello-gridea/</id>
-        <link href="https://Index5555.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
