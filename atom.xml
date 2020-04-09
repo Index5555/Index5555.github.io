@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Index5555.github.io</id>
     <title>Index5555&apos;s Blog</title>
-    <updated>2020-04-09T03:08:32.784Z</updated>
+    <updated>2020-04-09T03:12:19.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Index5555.github.io"/>
     <link rel="self" href="https://Index5555.github.io/atom.xml"/>
@@ -20,16 +20,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>图片测试</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呼~]]></title>
-        <id>https://Index5555.github.io/post/hu-~/</id>
-        <link href="https://Index5555.github.io/post/hu-~/">
-        </link>
-        <updated>2020-04-08T04:13:13.000Z</updated>
-        <content type="html"><![CDATA[<p>世上无难事，只要肯登攀......个鬼啊！<br>
-hexo写文章是找虐吧，还是都是大佬？Gridea瞬间搞定，图形界面友好，我去他的hexo。</p>
 ]]></content>
     </entry>
     <entry>
