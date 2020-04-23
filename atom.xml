@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Index5555.github.io</id>
     <title>Index5555&apos;s Blog</title>
-    <updated>2020-04-23T09:08:39.936Z</updated>
+    <updated>2020-04-23T10:38:34.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Index5555.github.io"/>
     <link rel="self" href="https://Index5555.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Index5555.github.io/images/avatar.png</logo>
     <icon>https://Index5555.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Index5555&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[图床测试]]></title>
+        <id>https://Index5555.github.io/post/tu-chuang-ce-shi/</id>
+        <link href="https://Index5555.github.io/post/tu-chuang-ce-shi/">
+        </link>
+        <updated>2020-04-23T10:37:41.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://index5555.oss-ap-southeast-1.aliyuncs.com/picturesbed/b60f051d0dfaad8963535328184a9f7a.jpg" alt="" loading="lazy"><br>
+<img src="https://index5555.oss-ap-southeast-1.aliyuncs.com/picturesbed/aef14f2e3c6ffdf51151641b932078a8.jpg" alt="" loading="lazy"><br>
+<img src="https://index5555.oss-ap-southeast-1.aliyuncs.com/picturesbed/085B98506985A106538850872AD90854.jpg" alt="" loading="lazy"><br>
+<img src="https://index5555.oss-ap-southeast-1.aliyuncs.com/picturesbed/A2D63F54A0E3917543A4A18A97629A53.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://Index5555.github.io/post/test/</id>
